@@ -22,6 +22,17 @@
 * `sudo apt install git`
 * `git clone https://github.com/LostAnxiety/goldensight`
 
+- Change to cloned directory and run `goldensight.sh` -
+
+* `cd goldensight`
+
+- Then do these commands below in order -
+
+* `ls`
+* `sudo ./goldensight.sh`
+
+- Then continue with the terminal -
+
 ### <<< Thanks for using Goldensight >>>
 ## Features :
 #### [+] Latest Login Pages !
