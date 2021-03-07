@@ -29,6 +29,7 @@
 #### [+] Easy for Beginners !
 ## Credits :
 #### > LostAnxiety (https://github.com/LostAnxiety)
+#### > zphisher (https://github.com/htr-tech/zphisher)
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
 #### > NGROK (https://ngrok.com)
