@@ -1,8 +1,8 @@
 FROM debian:10
-LABEL MAINTAINER="https://github.com/htr-tech/zphisher"
+LABEL MAINTAINER="https://github.com/LostAnxiety/goldensight"
 
-WORKDIR zphisher/
-ADD . /zphisher
+WORKDIR goldensight/
+ADD . /goldensight
 
 RUN apt-get update
 RUN apt-get install -y curl
@@ -11,4 +11,4 @@ RUN apt-get install -y unzip
 RUN apt-get clean
 RUN apt-get install -y wget
 
-CMD ["./zphisher.sh"]
+CMD ["./goldensight.sh"]
