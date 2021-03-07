@@ -20,7 +20,7 @@
 ## Installation :
 
 * `sudo apt install git`
-* `git clone`
+* `git clone https://github.com/LostAnxiety/goldensight`
 
 ### <<< Thanks for using Goldensight >>>
 ## Features :
